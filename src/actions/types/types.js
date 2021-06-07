@@ -1,0 +1,6 @@
+//AUTH
+const LOGIN_SUCCES = "LOGIN_SUCCESS";
+
+export {
+	LOGIN_SUCCES,
+}
